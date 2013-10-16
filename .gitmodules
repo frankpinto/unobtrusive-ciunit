@@ -1,3 +1,0 @@
-[submodule "tests/visual"]
-	path = tests/visual
-	url = https://github.com/NSinopoli/VisualPHPUnit
