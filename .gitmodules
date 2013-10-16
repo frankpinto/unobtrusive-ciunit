@@ -1,0 +1,3 @@
+[submodule "tests/visual"]
+	path = tests/visual
+	url = git@github.com:frankpinto/VisualPHPUnit.git
